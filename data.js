@@ -422,7 +422,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 3.107882314722379,
+          "pitch": 0.42768860668365427,
+          "rotation": 0,
+          "target": "7-reduit_linksom-7"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -655,6 +662,12 @@ var APP_DATA = {
           "pitch": 0.31095221514314453,
           "rotation": 0,
           "target": "14-reduit_linksom-14"
+        },
+        {
+          "yaw": -1.417175391792071,
+          "pitch": 0.4534737385540595,
+          "rotation": 0,
+          "target": "17-reduit_linksom-17"
         }
       ],
       "infoHotspots": []
@@ -699,8 +712,8 @@ var APP_DATA = {
           "target": "13-reduit_linksom-13"
         },
         {
-          "yaw": 0.43783405511190665,
-          "pitch": 0.33888996586381026,
+          "yaw": 0.20110724657517842,
+          "pitch": 0.4162631708935738,
           "rotation": 0,
           "target": "15-reduit_linksom-15"
         },
