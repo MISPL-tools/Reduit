@@ -94,7 +94,7 @@ var APP_DATA = {
 					"target": "0-reduit_brug"
 				},
 				{
-					"yaw": -1.57,
+					"yaw": -1.7,
 					"pitch": 0.277,
 					"rotation": 0,
 					"target": "37-reduit_linksom-37"
@@ -146,6 +146,18 @@ var APP_DATA = {
 					"pitch": 0.19748085835051654,
 					"rotation": 0,
 					"target": "1-reduit_linksom-1"
+				},
+				{
+					"yaw": -1.5,
+					"pitch": 0.20377448666729236,
+					"rotation": 0,
+					"target": "39-reduit_linksom-39"
+				},
+				{
+					"yaw": 1.66,
+					"pitch": 0.3,
+					"rotation": 0,
+					"target": "42-reduit_linksom-42"
 				}
 			],
 			"infoHotspots": []
@@ -208,7 +220,7 @@ var APP_DATA = {
 					"target": "9-reduit_linksom-9"
 				},
 				{
-					"yaw": -3.1425,
+					"yaw": -2.7,
 					"pitch": 0.2037,
 					"rotation": 0,
 					"target": "2-reduit_linksom-2"
@@ -1666,7 +1678,7 @@ var APP_DATA = {
 					"target": "35-reduit_linksom-35"
 				},
 				{
-					"yaw": -1.7,
+					"yaw": -1.5,
 					"pitch": 0.3080,
 					"rotation": 0,
 					"target": "34-reduit_linksom-34"
@@ -1862,6 +1874,12 @@ var APP_DATA = {
 					"pitch": 0.6316589196333791,
 					"rotation": 0,
 					"target": "38-reduit_linksom-38"
+				},
+				{
+					"yaw": 3.1425,
+					"pitch": 0.6316589196333791,
+					"rotation": 0,
+					"target": "35-reduit_linksom-35"
 				}
 			],
 			"infoHotspots": []
@@ -2227,7 +2245,7 @@ var APP_DATA = {
 					"yaw": -0.05556815740104959,
 					"pitch": 0.17269265130282463,
 					"rotation": 0,
-					"target": "2-reduit_linksom-2"
+					"target": "46-reduit_buiten-2"
 				},
 				{
 					"yaw": -1.889360532544302,
@@ -2602,7 +2620,7 @@ var APP_DATA = {
 			},
 			"linkHotspots": [
 				{
-					"yaw": -2.9703798438031424,
+					"yaw": -2.7,
 					"pitch": 0.22213845147605582,
 					"rotation": 0,
 					"target": "52-reduit_buiten-8"
@@ -2611,7 +2629,13 @@ var APP_DATA = {
 					"yaw": 1.1931869490776634,
 					"pitch": 0.38443483873610695,
 					"rotation": 0,
-					"target": "53-reduit_buiten-9"
+					"target": "54-reduit_buiten-10"
+				},
+				{
+					"yaw": -3.3,
+					"pitch": 0.1,
+					"rotation": 0,
+					"target": "55-reduit_buiten-11"
 				}
 			],
 			"infoHotspots": []
