@@ -92,7 +92,13 @@ var APP_DATA = {
           "pitch": 0.19087458061610185,
           "rotation": 0,
           "target": "0-reduit_brug"
-        }
+        },
+        {
+          "yaw": 3.0569,
+          "pitch": 0.4641,
+          "rotation": 0,
+          "target": "37-reduit_linksom-37"
+        }		
       ],
       "infoHotspots": []
     },
@@ -168,6 +174,12 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 4096
+        },
+       {
+          "yaw": -2.9974,
+          "pitch": 0.2037,
+          "rotation": 0,
+          "target": "2-reduit_linksom-2"
         }
       ],
       "faceSize": 2976,
@@ -1652,6 +1664,12 @@ var APP_DATA = {
           "pitch": 0.48677123492018914,
           "rotation": 0,
           "target": "35-reduit_linksom-35"
+        },
+		{
+          "yaw": 0.2725,
+          "pitch": 0.3080,
+          "rotation": 0,
+          "target": "34-reduit_linksom-34"
         }
       ],
       "infoHotspots": []
@@ -2263,7 +2281,7 @@ var APP_DATA = {
           "yaw": 2.927448530648599,
           "pitch": 0.1879901472007326,
           "rotation": 0,
-          "target": "46-reduit_buiten-2"
+          "target": "46-reduit_buiten-1"
         }
       ],
       "infoHotspots": []
@@ -2305,7 +2323,7 @@ var APP_DATA = {
           "yaw": 0.07976511675950526,
           "pitch": 0.31884247741304783,
           "rotation": 0,
-          "target": "47-reduit_buiten-3"
+          "target": "47-reduit_buiten-4"
         },
         {
           "yaw": -3.0807156675293363,
@@ -2359,7 +2377,7 @@ var APP_DATA = {
           "yaw": -3.101302087355501,
           "pitch": 0.12667783696579882,
           "rotation": 0,
-          "target": "48-reduit_buiten-4"
+          "target": "48-reduit_buiten-3"
         }
       ],
       "infoHotspots": []
