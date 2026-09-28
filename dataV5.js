@@ -95,7 +95,7 @@ var APP_DATA = {
 				},
 				{
 					"yaw": -1.57,
-					"pitch": 0.277,
+					"pitch": 0.2779,
 					"rotation": 0,
 					"target": "37-reduit_linksom-37"
 				}
@@ -208,7 +208,7 @@ var APP_DATA = {
 					"target": "9-reduit_linksom-9"
 				},
 				{
-					"yaw": -3.1425,
+					"yaw": -2.9974,
 					"pitch": 0.2037,
 					"rotation": 0,
 					"target": "2-reduit_linksom-2"
@@ -1666,7 +1666,7 @@ var APP_DATA = {
 					"target": "35-reduit_linksom-35"
 				},
 				{
-					"yaw": -1.7,
+					"yaw": 0.2725,
 					"pitch": 0.3080,
 					"rotation": 0,
 					"target": "34-reduit_linksom-34"
