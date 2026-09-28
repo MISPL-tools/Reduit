@@ -2479,7 +2479,7 @@ var APP_DATA = {
 					"yaw": 2.9681078434951456,
 					"pitch": 0.28073275006511267,
 					"rotation": 0,
-					"target": "46-reduit_buiten-2"
+					"target": "45-reduit_buiten-1"
 				},
 				{
 					"yaw": -0.18156876320459325,
